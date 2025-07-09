@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pwjap9u37-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pwjap9u37-python
